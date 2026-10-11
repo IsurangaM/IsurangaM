@@ -2,7 +2,7 @@
 
 I'm an MSc student in **Molecular Biology and Biotechnology** at the University of Colombo, Sri Lanka, and a **Research Student at the Faculty of Technology, University of Sri Jayewardenepura, Sri Lanka**.
 
-I hold a BSc in Biological Sciences from the University of Kelaniya, Sri Lanka, with majors in Microbiology, Plant Biology, and Chemistry.
+I hold a BSc in Biological Sciences from the University of Kelaniya (First Class), Sri Lanka, with majors in Microbiology, Plant Biology, and Chemistry.
 
 ## 🔬 Research interests
 
@@ -16,25 +16,13 @@ I'm developing my research direction at the intersection of:
 
 I'm especially interested in using evolutionary evidence and computational analysis to understand protein function and inform future biotechnology designs.
 
-## 🧪 Current learning and project direction
-
-### Evolution-Guided PETase Engineering
-
-A short computational practice project exploring how evolutionary conservation, **Evo 2** DNA-sequence scoring, and **AlphaFold 2** structural analysis could be combined to prioritize candidate PETase variants, followed by conceptual expression-construct design in **Benchling**.
-
-- **Project stage:** methodology and repository setup; analyses are not yet complete.
-- **Approach:** reproducible sequence analysis, evidence-aware candidate prioritization, structural comparison, and in-silico construct design.
-- **Scientific principle:** computational scores and predicted structures are hypotheses, not proof of improved enzyme activity.
-
-🔗 [Project repository](https://github.com/IsurangaM/evolution-guided-petase-engineering) — *currently private while in development.*
 
 ## 🛠 Skills and tools
 
-- **Bioinformatics and evolutionary analysis:** BLAST, MAFFT, IQ-TREE, PAML
+- **Bioinformatics and evolutionary analysis:** BLAST, MAFFT, IQ-TREE, PAML, AlphaFold, Evo 2, Benchling
 - **Computational environment:** Linux/Ubuntu/WSL; Bash (beginner)
 - **Programming:** Python (learning)
-- **Laboratory:** Microbial analysis using ISO-based methods
-- **Exploring for the current project:** Evo 2, AlphaFold 2, PyMOL, and Benchling
+- **Laboratory:** Microbial analysis using ISO-based methods, PCR, DNA extraction
 
 I aim to develop reproducible workflows, keep clear records of software settings and data sources, and distinguish computational predictions from experimentally supported conclusions.
 
