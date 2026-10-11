@@ -16,15 +16,17 @@ I'm developing my research direction at the intersection of:
 
 I'm especially interested in using evolutionary evidence and computational analysis to understand protein function and inform future biotechnology designs.
 
-
 ## 🛠 Skills and tools
 
-- **Bioinformatics and evolutionary analysis:** BLAST, MAFFT, IQ-TREE, PAML, AlphaFold, Evo 2, Benchling
-- **Computational environment:** Linux/Ubuntu/WSL; Bash (beginner)
-- **Programming:** Python (learning)
-- **Laboratory:** Microbial analysis using ISO-based methods, PCR, DNA extraction
+- **Sequence analysis and evolutionary bioinformatics:** BLAST, MAFFT, IQ-TREE, PAML; sequence alignment, phylogenetic inference, and evolutionary-analysis concepts.
+- **Protein and nucleic-acid structure analysis:** AlphaFold structure predictions and confidence interpretation; mFold secondary-structure prediction; UCSF ChimeraX for protein/domain visualization.
+- **Computational structural analysis:** protein-domain inspection, surface-accessibility assessment, candidate-residue filtering, residue-pair distance calculations, and spatial-cluster interpretation.
+- **Aptamer-design workflow (computational):** sequence/secondary-structure assessment and evaluation of potential target-surface regions. Predicted structures and candidate binding surfaces remain hypotheses until experimentally validated.
+- **Computing and programming:** Linux/Ubuntu/WSL; Bash (beginner); Python (developing skills, including small data-analysis scripts).
+- **Molecular biology laboratory skills:** PCR, DNA extraction, and microbial analysis using ISO-based methods.
+- **Currently exploring:** Evo 2 DNA foundation-model scoring and Benchling for in-silico sequence and construct design.
 
-I aim to develop reproducible workflows, keep clear records of software settings and data sources, and distinguish computational predictions from experimentally supported conclusions.
+My MSc learning and research practice are helping me connect molecular biology with sequence analysis, evolutionary inference, protein-structure prediction, and evidence-based interpretation. I aim to build reproducible workflows, document software settings and data sources, and distinguish computational predictions from experimentally supported conclusions.
 
 ## 📚 Publications
 
