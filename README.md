@@ -1,6 +1,6 @@
 # Hi, I'm Malshan Isuranga 👋
 
-I'm an MSc student in **Molecular Biology and Biotechnology** at the University of Colombo, Sri Lanka, and a **Microbiologist at Bureau Veritas CPS Lanka**.
+I'm an MSc student in **Molecular Biology and Biotechnology** at the University of Colombo, Sri Lanka, and a **Research Student at the Faculty of Technology, University of Sri Jayewardenepura, Sri Lanka**.
 
 I hold a BSc in Biological Sciences from the University of Kelaniya, Sri Lanka, with majors in Microbiology, Plant Biology, and Chemistry.
 
