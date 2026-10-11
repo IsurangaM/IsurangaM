@@ -19,27 +19,22 @@ I'm especially interested in using evolutionary evidence and computational analy
 ## 🛠 Skills and tools
 
 - **Sequence analysis and evolutionary bioinformatics:** BLAST, MAFFT, IQ-TREE, PAML; multiple sequence alignment, phylogenetic analysis, and evolutionary inference.
+  
 - **NGS and variant analysis (MSc):** NGS data analysis and variant calling as part of MSc coursework and practical learning.
+  
 - **Protein and nucleic-acid structure analysis:** AlphaFold structure prediction and model-confidence interpretation; mFold secondary-structure prediction; structural visualization and analysis with UCSF ChimeraX.
+  
 - **Computational molecular biology:** aptamer sequence and secondary-structure assessment, predicted structure inspection, residue-distance analysis, and evaluation of protein-surface regions. These analyses support hypotheses and do not replace experimental validation.
+  
 - **DNA foundation models and sequence design:** Evo 2 (prior use of a DNA foundation model).
+  
 - **Sequence and construct design:** Benchling (used during my MSc for molecular biology sequence/design workflows).
+  
 - **Computing and programming:** Linux/Ubuntu/WSL; Bash (beginner); Python (developing skills, including small data-analysis scripts).
+  
 - **Laboratory skills:** PCR, DNA extraction, and microbial analysis using ISO-based methods.
 
-My MSc learning and computational research experience have helped me connect molecular biology with NGS analysis, variant calling, sequence analysis, evolutionary inference, and protein/nucleic-acid structural assessment. I aim to build reproducible workflows, document software settings and data sources, and distinguish computational predictions from experimentally supported conclusions.
 
-## 🧪 Featured computational project
-
-### Evolution-Guided PETase Engineering
-
-A short computational practice project exploring how evolutionary conservation, Evo 2 DNA-sequence scoring, and AlphaFold 2 structural analysis could be combined to prioritize candidate PETase variants, followed by conceptual expression-construct design in Benchling.
-
-- **Project stage:** methodology and repository setup; analyses are not yet complete.
-- **Approach:** reproducible sequence analysis, evidence-aware candidate prioritization, structural comparison, and in-silico construct design.
-- **Scientific principle:** computational scores and predicted structures are hypotheses, not proof of improved enzyme activity.
-
-🔗 [Project repository](https://github.com/IsurangaM/evolution-guided-petase-engineering) — *currently private while in development.*
 
 ## 📚 Publications
 
